@@ -1,2 +1,2 @@
 # resort_react
-a resort website using react
+https://vashishtha07.github.io/resort_react/
